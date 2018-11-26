@@ -1,30 +1,6 @@
 {
   "monsters": [
     {
-      "name": "Chronos",
-      "age": 4005.302453418598,
-      "description": "Effulgence eldritch shunned foetid. Ululate gibbering tenebrous foetid iridescence daemoniac. Stench nameless gambrel. Amorphous furtive iridescence noisome. Foetid mortal nameless.",
-      "id": 1
-    },
-    {
-      "name": "Tartarus",
-      "age": 1874.4913565609456,
-      "description": "Cyclopean swarthy amorphous singular accursed furtive non-euclidean stygian. Swarthy gibbering charnel eldritch daemoniac gibbous. Cyclopean lurk hideous tentacles squamous immemorial tenebrous mortal. Madness tentacles furtive mortal foetid decadent. Foetid immemorial comprehension.",
-      "id": 2
-    },
-    {
-      "name": "Hemera",
-      "age": 4094.8375978925988,
-      "description": "Dank immemorial abnormal gambrel. Cat lurk unutterable. Abnormal tenebrous ululate. Nameless swarthy manuscript eldritch indescribable accursed antediluvian decadent.",
-      "id": 3
-    },
-    {
-      "name": "Tartarus",
-      "age": 2364.163894640274,
-      "description": "Fungus blasphemous immemorial indescribable singular cat foetid. Cyclopean loathsome swarthy tenebrous madness nameless abnormal fungus. Daemoniac fungus fainted.",
-      "id": 4
-    },
-    {
       "name": "Pontus",
       "age": 4838.903020812994,
       "description": "Mortal madness foetid. Foetid hideous antediluvian non-euclidean comprehension nameless lurk. Squamous shunned accursed amorphous.",
@@ -5999,6 +5975,42 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "hemera",
+      "age": null,
+      "description": "",
+      "id": 1001
+    },
+    {
+      "name": "hemera",
+      "age": null,
+      "description": "",
+      "id": 1002
+    },
+    {
+      "name": "Jumba",
+      "age": "14",
+      "description": "Jumba for real",
+      "id": 1003
+    },
+    {
+      "name": "afsd",
+      "age": "3",
+      "description": "sad",
+      "id": 1004
+    },
+    {
+      "name": "dsf",
+      "age": "3",
+      "description": "sad",
+      "id": 1005
+    },
+    {
+      "name": "",
+      "age": "",
+      "description": "",
+      "id": 1006
     }
   ]
 }
